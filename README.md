@@ -1,4 +1,4 @@
-## Olá, eu sou Kawan Wnn. 🕹️
+## Olá! Eu sou o Kawan Wnn. 👋🏿
 ### Minhas Redes: <br>
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgQk62HqpCR1lFV37k3yOaw)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kawan_wg.k/)
