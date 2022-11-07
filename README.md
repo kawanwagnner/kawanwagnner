@@ -24,7 +24,6 @@
 <br>
 
 ## Best-Project's:
-<br>
     
 - <a href="https://kawanwagnner.github.io/blog-android/">Surgimento-do-Android</a> 
     
