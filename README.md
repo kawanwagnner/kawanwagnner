@@ -32,4 +32,4 @@
 - <a href="https://kawanwagnner.github.io/Portfolio.github.io/">Portfólio-Responsive</a> 
 <br/>
     
-### Em Aprendizado. 🙇🏿
+### In learning. 🙇🏿
