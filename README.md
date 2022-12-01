@@ -5,11 +5,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kawan_wg.k/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kawanwagnner.gs@gmail.com)
 
+## My Stats <img src="https://media1.giphy.com/media/QtOt8WyYCGQBiJJ4ZJ/giphy.gif?cid=ecf05e478akguwkdt48em6rw22ld04x2j97et8a3ltlxwqnk&rid=giphy.gif&ct=s" width="30">
 
-![Kawan GitHub stats](https://github-readme-stats.vercel.app/api?username=kawanwagnner&show_icons=true&theme=dracula)
+![Kawan GitHub stats](https://github-readme-stats.vercel.app/api?username=kawanwagnner&show_icons=true&theme=dracula&border_radius=15)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawanwagnner&theme=dracula&border_radius=15&layout=compact&langs_count=6)
 
 
-## Tecnologias Utilizadas:
+## Tecnologias Utilizadas: 
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -26,7 +28,7 @@
 
 ## Best-Project's:
     
-- <a href="https://kawanwagnner.github.io/blog-android/">Surgimento-do-Android</a> 
+- <a href="https://kawanwagnner.github.io/calculadora-digital/">Calculadora-Digital</a> 
     
 - <a href="https://kawanwagnner.github.io/projeto-cordel/">Cordel-Tecnologia-do-Agora</a>
     
