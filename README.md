@@ -7,8 +7,8 @@
 
 ## My Stats <img src="https://media1.giphy.com/media/QtOt8WyYCGQBiJJ4ZJ/giphy.gif?cid=ecf05e478akguwkdt48em6rw22ld04x2j97et8a3ltlxwqnk&rid=giphy.gif&ct=s" width="30">
 
-![Kawan GitHub stats](https://github-readme-stats.vercel.app/api?username=kawanwagnner&show_icons=true&theme=ayu-mirage&border_radius=15)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawanwagnner&theme=ayu-mirage&border_radius=15&layout=compact&langs_count=6)
+![Kawan GitHub stats](https://github-readme-stats.vercel.app/api?username=kawanwagnner&show_icons=true&theme=tokyonight&border_radius=15)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawanwagnner&theme=tokyonight&border_radius=15&layout=compact&langs_count=6)
 
 
 ## Tecnologias Utilizadas: 
