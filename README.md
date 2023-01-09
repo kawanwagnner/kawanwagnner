@@ -30,7 +30,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Best-Project's:
-- <a href="https://kawanwagnner.github.io/micro-store/">Kawax_Z (Mrico-Store)</a> 
+- <a href="https://kawanwagnner.github.io/micro-store/">Kawax_Z (Micro-Store)</a> 
 - <a href="https://kawanwagnner.github.io/projeto-cordel/">Cordel-Tecnologia-do-Agora</a>
 - <a href="https://kawanwagnner.github.io/portfolio-cliente/">Portfólio-Cliente</a> 
 <br/>
