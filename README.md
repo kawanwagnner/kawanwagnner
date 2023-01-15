@@ -2,11 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7A67AC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Kawan+Wagnner;I'm+17+years+old;I'm+from+Brazil;I'm+Developer+Front+End+Jr.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kawanwagnner&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Kawan Wagnner github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawanwagnner&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+<div align="center"> 
+________________________________________________________________________________________________________<h3>
+  🍀Olá! Quem sou eu? </br> Apenas um curioso que acabou se apaixonando pela tecnologia. </br> Venho de um interiorzinho de PE, mas atulmente moro em São Paulo.
+</h3>_____________________________________________________________________________
 </div>
 
+</br>
+  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kawanwagnner&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
