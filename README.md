@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="assets/img/logo.png"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 <br>
 <br>
 
@@ -79,7 +79,7 @@
 
 <div align="left">
 
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
+<img align="center"  height="80" width="100" src="https://korzh.com/assets/images/javascript.png">
 
 <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
 
@@ -121,4 +121,4 @@
 <br>
 <br>
 
-<img width=100% src="assets/img/no-logo.png"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
