@@ -41,8 +41,6 @@
 </div>
 
 <br>
-<br>
-<br>
 
 ### Main skills:
 
