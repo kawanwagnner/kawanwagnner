@@ -2,7 +2,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=0000FF&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Kawan+Wnn;I'm+18+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=0000FF&center=true&vCenter=true&random=false&width=1000&lines=Hello!+My+name+is+Kawan+Wagnner.;I'm+18+years+old.;I'm+from+Brazil.;I'm+Developer+Front+End+Jr.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
 <br>
@@ -38,6 +38,15 @@
 
 </div>
 
+</div>
+
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br>
+
 ### Main skills:
 
 <div align="left"> 
@@ -50,6 +59,8 @@
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
 
@@ -64,21 +75,26 @@
 <br>
 <br>
 
-### Main skills:
+<h2 align="left"> Studying in this moment: </h2>
 
-https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&logoColor=purple&labelColor=0D1117
+<div align="left">
 
-https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
 
-https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
 
-https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
 
-### Studying in this moment:
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
 
-https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
 
-https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117
+</div>
+  
+<br>
+<br>
+<br>
+<br>
 
 ### Best-Project's:
 
@@ -88,13 +104,12 @@ https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&la
   <br/>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>
-
-<p align="center"><img align="center" src="[https://profile-counter.glitch.me/{kawanwagnner}/count.svg](https://profile-counter.glitch.me/%7Bkawanwagnner%7D/count.svg)" /></p>
+<br>
+  <p align="centre"><b>Visitors Count</b></p>
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkawanwagnner&s=50&c=0000ff&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=">
+  <!-- <img src="https://profile-counter.glitch.me/{kawanwagnner}/count.svg"> -->
 <br>
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
 
 <div align="center">
 <h3> If you support me, click here, give me a coffee</h3>
