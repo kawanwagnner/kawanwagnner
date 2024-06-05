@@ -78,10 +78,6 @@
 
 <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
 
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
-
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
-
 </div>
   
 <br>
