@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3178E2&height=120&section=header"/>
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=0000FF&center=true&vCenter=true&random=false&width=1000&lines=Hello!+My+name+is+Kawan+Wagnner.;I'm+18+years+old.;I'm+from+Brazil.;I'm+Developer+Front+End+Jr.;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=3178E2&center=true&vCenter=true&random=false&width=1000&lines=Hello!+My+name+is+Kawan+Wagnner.;I'm+18+years+old.;I'm+from+Brazil.;I'm+Developer+Front+End+Jr.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
 <br>
@@ -92,7 +92,7 @@
 <div align="center">
 <br>
   <p align="centre"><b>Visitors Count</b></p>
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkawanwagnner&s=50&c=0000ff&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=">
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkawanwagnner&s=50&c=3178e2&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=">
   <!-- <img src="https://profile-counter.glitch.me/{kawanwagnner}/count.svg"> -->
 <br>
 </div>
@@ -107,4 +107,4 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3178E2&height=120&section=footer"/>
