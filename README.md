@@ -84,9 +84,9 @@
 
 ### Best-Project's:
 
-- <a href="https://kawanwagnner.github.io/micro-store/">Kawax_Z (Micro-Store)</a>
-- <a href="https://kawanwagnner.github.io/projeto-cordel/">Cordel-Tecnologia-do-Agora</a>
-- <a href="https://kawanwagnner.github.io/portfolio-cliente/">Portfólio-Cliente</a>
+- <a href="https://bereana-cupece.vercel.app/" target="_blank">Bereana Cupecê - Igreja</a>
+- <a href="https://travel-buena-vista.vercel.app/" target="_blank">TravelBuenaVista</a>
+- <a href="https://kawanwagnner.github.io/v-g-prevencoes/" target="_blank">VG Prevenções</a>
   <br/>
 
 <div align="center">
