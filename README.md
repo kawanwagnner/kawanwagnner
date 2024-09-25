@@ -86,7 +86,7 @@
 
 - <a href="https://bereana-cupece.vercel.app/" target="_blank">Bereana Cupecê - Igreja</a>
 - <a href="https://travel-buena-vista.vercel.app/" target="_blank">TravelBuenaVista</a>
-- <a href="https://kawanwagnner.github.io/v-g-prevencoes/" target="_blank">VG Prevenções</a>
+- <a href="https://ui-netflix-learning.vercel.app/" target="_blank">UI Clone Netflix</a>
   <br/>
 
 <div align="center">
